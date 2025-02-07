@@ -1,0 +1,2 @@
+# latihansim
+belajar
