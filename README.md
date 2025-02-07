@@ -1,2 +1,2 @@
-# latihansimr
+# latihansim
 belajar
